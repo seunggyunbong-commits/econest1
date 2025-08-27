@@ -128,3 +128,6 @@
     @apply bg-background text-foreground;
   }
 }
+a[href*="v0.dev"] {
+  display: none !important;
+}
